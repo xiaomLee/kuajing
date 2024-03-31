@@ -1,0 +1,5 @@
+[book]
+authors = ["limingzhong"]
+language = "zh-CN"
+multilingual = false
+src = "./"
